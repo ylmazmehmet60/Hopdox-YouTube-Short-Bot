@@ -2,6 +2,9 @@
 
 This application automates the process of finding, downloading, and uploading videos to **YouTube Shorts**.
 
+[![YouTube Video](https://img.youtube.com/vi/KIVAMyOOOIM/0.jpg)](https://www.youtube.com/watch?v=KIVAMyOOOIM&t=1606s)
+[![YouTube Video](https://img.youtube.com/vi/k-BKr3dp_uk/0.jpg)](https://www.youtube.com/watch?v=k-BKr3dp_uk)
+
 ---
 
 ## ✨ Key Features
