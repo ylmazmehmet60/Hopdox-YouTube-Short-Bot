@@ -1,4 +1,4 @@
-# YouTube Short Bot v1
+# Hopdox YouTube Short Bot
 
 This application automates the process of finding, downloading, and uploading videos to **YouTube Shorts**.
 
